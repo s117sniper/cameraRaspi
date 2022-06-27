@@ -2,6 +2,7 @@ import picamera
 import time
 import keyboard
 camera = picamera.PiCamera()
+#variables
 xpos = 0
 ypos = 0
 width = 640
